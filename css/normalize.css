@@ -1,0 +1,17 @@
+:root {
+    /* Para o rem mudar de 16px para 10px deixando o cálculo mais fácil */
+    font-size: 62.5%;
+  }
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', Roboto, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+li:before {
+    content: "";
+}

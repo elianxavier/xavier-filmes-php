@@ -1,0 +1,130 @@
+{
+    "filmes": [
+      {
+        "nome": "Matrix",
+        "gênero": "Ficção Científica",
+        "sinopse": "Um hacker descobre a verdade sobre a realidade em que vive.",
+        "ano_lancamento": 1999,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "Pulp Fiction",
+        "gênero": "Crime",
+        "sinopse": "Dois assassinos de aluguel fazem negócios no submundo do crime.",
+        "ano_lancamento": 1994,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Italiano"]
+      },
+      {
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "gênero": "Fantasia",
+        "sinopse": "Uma jornada para destruir um anel maligno e salvar a Terra Média.",
+        "ano_lancamento": 2001,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Português"]
+      },
+      {
+        "nome": "Interestelar",
+        "gênero": "Ficção Científica",
+        "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+        "ano_lancamento": 2014,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Alemão"]
+      },
+      {
+        "nome": "Titanic",
+        "gênero": "Drama",
+        "sinopse": "Um romance trágico a bordo do navio mais famoso do mundo.",
+        "ano_lancamento": 1997,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "Jurassic Park",
+        "gênero": "Aventura",
+        "sinopse": "Dinossauros ganham vida em uma ilha isolada.",
+        "ano_lancamento": 1993,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Português"]
+      },
+      {
+        "nome": "O Rei Leão",
+        "gênero": "Animação",
+        "sinopse": "A jornada do jovem leão Simba para se tornar o rei da selva.",
+        "ano_lancamento": 1994,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Português"]
+      },
+      {
+        "nome": "Forrest Gump",
+        "gênero": "Drama",
+        "sinopse": "A vida de Forrest Gump e suas experiências extraordinárias.",
+        "ano_lancamento": 1994,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "O Silêncio dos Inocentes",
+        "gênero": "Suspense",
+        "sinopse": "Um agente do FBI busca a ajuda de Hannibal Lecter para capturar um assassino em série.",
+        "ano_lancamento": 1991,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Italiano"]
+      },
+      {
+        "nome": "Gladiador",
+        "gênero": "Ação",
+        "sinopse": "Um general romano busca vingança contra o imperador que o traiu.",
+        "ano_lancamento": 2000,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Latim"]
+      },
+      {
+        "nome": "E o Vento Levou",
+        "gênero": "Drama",
+        "sinopse": "A história de uma mulher durante a Guerra Civil Americana.",
+        "ano_lancamento": 1939,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "Batman: O Cavaleiro das Trevas",
+        "gênero": "Ação",
+        "sinopse": "Batman enfrenta o Coringa em uma batalha de ideologias.",
+        "ano_lancamento": 2008,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Português"]
+      },
+      {
+        "nome": "De Volta para o Futuro",
+        "gênero": "Aventura",
+        "sinopse": "Um adolescente viaja no tempo com a ajuda de um DeLorean.",
+        "ano_lancamento": 1985,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "O Poderoso Chefão",
+        "gênero": "Crime",
+        "sinopse": "A ascensão e queda de uma família criminosa italiana.",
+        "ano_lancamento": 1972,
+        "linguas_disponiveis": ["Inglês", "Italiano", "Siciliano"]
+      },
+      {
+        "nome": "Cidade de Deus",
+        "gênero": "Drama",
+        "sinopse": "A vida nas favelas do Rio de Janeiro.",
+        "ano_lancamento": 2002,
+        "linguas_disponiveis": ["Português", "Inglês", "Espanhol"]
+      },
+      {
+        "nome": "Star Wars: Uma Nova Esperança",
+        "gênero": "Ficção Científica",
+        "sinopse": "A batalha contra o Império Galáctico.",
+        "ano_lancamento": 1977,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Português"]
+      },
+      {
+        "nome": "O Resgate do Soldado Ryan",
+        "gênero": "Guerra",
+        "sinopse": "Um grupo de soldados busca resgatar um soldado desaparecido durante a Segunda Guerra Mundial.",
+        "ano_lancamento": 1998,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      },
+      {
+        "nome": "O Iluminado",
+        "gênero": "Terror",
+        "sinopse": "Um escritor fica isolado em um hotel assombrado com sua família.",
+        "ano_lancamento": 1980,
+        "linguas_disponiveis": ["Inglês", "Espanhol", "Francês"]
+      }
+    ]
+  }
